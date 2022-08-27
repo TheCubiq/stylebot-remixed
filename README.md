@@ -1,3 +1,9 @@
+# Cubiq's port
+
+## Fork idea: 
+> remix the internet  
+> share custom css worldwide🌍 
+
 # Stylebot
 
 ![CI](https://github.com/ankit/stylebot/workflows/CI/badge.svg)
