@@ -2,7 +2,8 @@
 
 ## Fork idea: 
 > remix the internet  
-> share custom css worldwide🌍 
+> share custom css worldwide🌍   
+> ❎archiving, found out that extension called stylus exists and does exactly that xd. 
 
 # Stylebot
 
